@@ -1,2 +1,2 @@
 # Woochan's personal website
-URL: https://woochachino.github.ios
+URL: https://woochachino.github.io
