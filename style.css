@@ -1,3 +1,27 @@
+body {
+    text-align: center;
+    background-image: url("images/lightBlueBackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+a:hover {
+    color: black;
+}
+a:active {
+    color: grey;
+}
 h2 {
     color: gray;
+}
+ul {
+    display: inline-block;
+}
+.icon {
+    height: 15px;
+}
+.button {
+    border-color: black;
+    border-style: solid;
+    
 }
