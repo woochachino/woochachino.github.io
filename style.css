@@ -23,5 +23,6 @@ ul {
 .button {
     border-color: black;
     border-style: solid;
-    
+    text-decoration: none;
 }
+    
